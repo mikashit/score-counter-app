@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: darkblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+
+}
+
+.title{
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+}
+
+.score-board {
+    background-color: black;
+    color: red;
+    padding: 50px;
+    font-family: Cursed Timer ULiL;
+    font-weight: 400;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px
+    
+}
+
+.increment-btn {
+  width: 45px;
+  height: 45px;
+  background: none;
+  color: white;
+  border-radius: 5px;
+}
